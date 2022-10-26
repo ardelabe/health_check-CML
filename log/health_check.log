@@ -10,3 +10,63 @@
 2022-10-23 11:55:02 health_check[7997]: Disk usage by root partition: 71.8%
 2022-10-23 11:55:02 health_check[7997]: Memory usage 50.7%
 2022-10-23 11:55:02 health_check[7997]: Network status is up: True%
+2022-10-25 15:30:27 health_check[16630]: CPU usage: 6.4%
+2022-10-25 15:30:27 health_check[16630]: Disk usage by root partition: 74.1%
+2022-10-25 15:30:27 health_check[16630]: Memory usage 48.6%
+2022-10-25 15:30:27 health_check[16630]: Network status is up: True%
+2022-10-25 15:31:54 health_check[16815]: CPU usage: 17.2%
+2022-10-25 15:31:54 health_check[16815]: Disk usage by root partition: 74.1%
+2022-10-25 15:31:54 health_check[16815]: Memory usage 49.0%
+2022-10-25 15:31:54 health_check[16815]: Network status is up: True
+2022-10-25 15:35:36 raise alert[17085]: settings.csv is missing
+2022-10-25 15:37:24 raise alert[17171]: settings.csv is missing
+2022-10-25 15:37:40 raise alert[17209]: settings.csv is missing
+2022-10-25 15:37:57 raise alert[17247]: settings.csv is missing
+2022-10-25 15:39:31 raise alert[17393]: settings.csv is missing
+2022-10-25 15:58:24 root_disk_usage_percent[19068]: O dispositivo de armazenamento esta com espaco livre inferior ao estipulado nas configuracoes
+2022-10-25 16:23:46 health_check[20151]: CPU usage: 3.1%
+2022-10-25 16:23:46 health_check[20151]: Disk usage by root partition: 74.1%
+2022-10-25 16:23:46 health_check[20151]: Memory usage 59.2%
+2022-10-25 16:23:46 health_check[20151]: Network status is up: True
+2022-10-25 16:24:04 health_check[20217]: CPU usage: 3.1%
+2022-10-25 16:24:04 health_check[20217]: Disk usage by root partition: 74.1%
+2022-10-25 16:24:04 health_check[20217]: Memory usage 59.3%
+2022-10-25 16:24:04 health_check[20217]: Network status is up: True
+2022-10-25 16:24:04 root_disk_usage_percent[20217]: O dispositivo de armazenamento esta com espaco livre inferior ao estipulado nas configuracoes
+2022-10-25 16:28:12 health_check[20478]: CPU usage: 4.7%
+2022-10-25 16:28:12 health_check[20478]: Disk usage by root partition: 74.1%
+2022-10-25 16:28:12 health_check[20478]: Memory usage 59.4%
+2022-10-25 16:28:12 health_check[20478]: Network status is up: True
+2022-10-25 16:28:12 root_disk_usage_percent[20478]: O root da maquina 10 esta com espaco livre inferior ao estipulado nas configuracoes - limite estipulado 74.1%
+2022-10-25 16:30:02 health_check[20560]: CPU usage: 3.7%
+2022-10-25 16:30:02 health_check[20560]: Disk usage by root partition: 74.1%
+2022-10-25 16:30:02 health_check[20560]: Memory usage 59.8%
+2022-10-25 16:30:02 health_check[20560]: Network status is up: True
+2022-10-25 16:30:02 root_disk_usage_percent[20560]: O root da maquina 10 esta com espaco livre inferior ao estipulado nas configuracoes
+Limite estipulado 74.1%
+Limite medido:90
+2022-10-25 16:34:42 health_check[20769]: CPU usage: 10.2%
+2022-10-25 16:34:42 health_check[20769]: Disk usage by root partition: 74.1%
+2022-10-25 16:34:42 health_check[20769]: Memory usage 60.6%
+2022-10-25 16:34:42 health_check[20769]: Network status is up: True
+2022-10-25 16:34:42 root_disk_usage_percent[20769]: <p>O root da maquina 10 esta com espaco livre inferior ao estipulado nas configuracoes</p><p>Limite estipulado 90%</p><p>Limite medido:74.1%</p>
+2022-10-25 17:27:56 health_check[23697]: CPU usage: 7.8%
+2022-10-25 17:27:56 health_check[23697]: Disk usage by root partition: 74.1%
+2022-10-25 17:27:56 health_check[23697]: Memory usage 73.6%
+2022-10-25 17:27:56 health_check[23697]: Network status is up: True
+2022-10-25 17:27:56 root_disk_usage_percent[23697]: <p>O root da maquina 10 esta com espaco livre inferior ao estipulado nas configuracoes</p><p>Limite estipulado 90%</p><p>Limite medido:74.1%</p>
+2022-10-26 12:55:42 health_check[5670]: CPU usage: 10.6%
+2022-10-26 12:55:42 health_check[5670]: Disk usage by root partition: 74.1%
+2022-10-26 12:55:42 health_check[5670]: Memory usage 51.7%
+2022-10-26 12:55:42 health_check[5670]: Network status is up: True
+2022-10-26 12:55:42 root_disk_usage_percent[5670]: <p>O root da maquina 10 esta com espaco livre inferior ao estipulado nas configuracoes</p><p>Limite estipulado 50%</p><p>Limite medido:74.1%</p>
+2022-10-26 12:57:44 health_check[5760]: CPU usage: 23.7%
+2022-10-26 12:57:44 health_check[5760]: Disk usage by root partition: 74.1%
+2022-10-26 12:57:44 health_check[5760]: Memory usage 52.5%
+2022-10-26 12:57:44 health_check[5760]: Network status is up: True
+2022-10-26 12:57:44 root_disk_usage_percent[5760]: <p>O root da maquina 10 esta com espaco livre inferior ao estipulado nas configuracoes</p><p>Limite estipulado 50%</p><p>Limite medido:74.1%</p>
+2022-10-26 14:27:50 health_check[8800]: CPU usage: 3.5%
+2022-10-26 14:27:50 health_check[8800]: Disk usage by root partition: 74.1%
+2022-10-26 14:27:50 health_check[8800]: Memory usage 55.8%
+2022-10-26 14:27:50 health_check[8800]: Network status is up: True
+2022-10-26 14:27:50 root_disk_usage_percent[8800]: <p>O root da maquina 10 esta com espaco livre inferior ao estipulado nas configuracoes</p><p>Limite estipulado 50%</p><p>Limite medido:74.1%</p>

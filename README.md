@@ -18,3 +18,10 @@ This function is highly reusable, "generate_csv", on the other hand, is more spe
 
 The "health_check.py" has only one funcion defined and is made to be executable. 
 The function defined is "check_status" that calls functions of "psutil" module (of Pypi) and returns a set of values, in order: CPU usage (in percent, measured in 4 seconds), the root partition usage (in percent), the memory ysage (in percent) and a boolean value representing if the node is sending and receiving packages normally. 
+
+# TO DO 
+
+fix the search for settings. 
+se logging package and/or ways to clear old logs.
+The program should look for partitions and track all of them. 
+Need to look for IP to put it on email. 

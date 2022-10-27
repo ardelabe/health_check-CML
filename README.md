@@ -21,7 +21,5 @@ The function defined is "check_status" that calls functions of "psutil" module (
 
 # TO DO 
 
-fix the search for settings. 
 se logging package and/or ways to clear old logs.
-The program should look for partitions and track all of them. 
-Need to look for IP to put it on email. 
+unify the send_email to allow to write one email to all servers

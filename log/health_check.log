@@ -70,3 +70,48 @@ Limite medido:90
 2022-10-26 14:27:50 health_check[8800]: Memory usage 55.8%
 2022-10-26 14:27:50 health_check[8800]: Network status is up: True
 2022-10-26 14:27:50 root_disk_usage_percent[8800]: <p>O root da maquina 10 esta com espaco livre inferior ao estipulado nas configuracoes</p><p>Limite estipulado 50%</p><p>Limite medido:74.1%</p>
+2022-10-26 14:57:48 health_check[11255]: CPU usage: 4.4%
+2022-10-26 14:57:48 health_check[11255]: Disk usage by root partition: 74.1%
+2022-10-26 14:57:48 health_check[11255]: Memory usage 54.0%
+2022-10-26 14:57:48 health_check[11255]: Network status is up: True
+2022-10-26 14:57:48 root_disk_usage_percent[11255]: <p>O root da maquina 10 esta com espaco livre inferior ao estipulado nas configuracoes</p><p>Limite estipulado 50%</p><p>Limite medido:74.1%</p>
+2022-10-26 14:58:51 health_check[11409]: CPU usage: 3.1%
+2022-10-26 14:58:51 health_check[11409]: Disk usage by root partition: 74.1%
+2022-10-26 14:58:51 health_check[11409]: Memory usage 54.0%
+2022-10-26 14:58:51 health_check[11409]: Network status is up: True
+2022-10-26 14:58:51 root_disk_usage_percent[11409]: <p>O root da maquina 10 esta com espaco livre inferior ao estipulado nas configuracoes</p><p>Limite estipulado 50%</p><p>Limite medido:74.1%</p>
+2022-10-26 15:03:27 health_check[11724]: CPU usage: 5.6%
+2022-10-26 15:03:27 health_check[11724]: Disk usage by root partition: 74.1%
+2022-10-26 15:03:27 health_check[11724]: Memory usage 52.8%
+2022-10-26 15:03:27 health_check[11724]: Network status is up: True
+2022-10-26 15:03:27 root_disk_usage_percent[11724]: <p>O root da maquina 10 esta com espaco livre inferior ao estipulado nas configuracoes</p><p>Limite estipulado 50%</p><p>Limite medido:74.1%</p>
+2022-10-26 15:10:29 health_check[12259]: CPU usage: 4.1%
+2022-10-26 15:10:29 health_check[12259]: Disk usage by root partition: 74.1%
+2022-10-26 15:10:29 health_check[12259]: Memory usage 53.8%
+2022-10-26 15:10:29 health_check[12259]: Network status is up: True
+2022-10-26 15:11:13 health_check[12360]: CPU usage: 3.8%
+2022-10-26 15:11:13 health_check[12360]: Disk usage by root partition: 74.1%
+2022-10-26 15:11:13 health_check[12360]: Memory usage 54.3%
+2022-10-26 15:11:13 health_check[12360]: Network status is up: True
+2022-10-26 15:11:13 root_disk_usage_percent[12360]: <p>O root da maquina 10 esta com espaco livre inferior ao estipulado nas configuracoes</p><p>Limite estipulado 50%</p><p>Limite medido:74.1%</p>
+2022-10-26 15:15:32 health_check[12561]: CPU usage: 3.4%
+2022-10-26 15:15:32 health_check[12561]: Disk usage by root partition: 74.1%
+2022-10-26 15:15:32 health_check[12561]: Memory usage 55.5%
+2022-10-26 15:15:32 health_check[12561]: Network status is up: True
+2022-10-26 15:15:32 root_disk_usage_percent[12561]: <p>O root da maquina 10 esta com espaco livre inferior ao estipulado nas configuracoes</p><p>Limite estipulado 50%</p><p>Limite medido:74.1%</p>
+2022-10-26 15:24:29 health_check[13202]: CPU usage: 2.5%
+2022-10-26 15:24:29 health_check[13202]: Disk usage by root partition: 74.1%
+2022-10-26 15:24:29 health_check[13202]: Memory usage 56.5%
+2022-10-26 15:24:29 health_check[13202]: Network status is up: True
+2022-10-26 15:24:29 root_disk_usage_percent[13202]: <p>O root da maquina 10 esta com espaco livre inferior ao estipulado nas configuracoes</p><p>Limite estipulado 50%</p><p>Limite medido:74.1%</p>
+2022-10-26 15:34:07 health_check[14225]: CPU usage: 10.6%
+2022-10-26 15:34:07 health_check[14225]: Disk usage by root partition: 74.1%
+2022-10-26 15:34:07 health_check[14225]: Memory usage 63.4%
+2022-10-26 15:34:07 health_check[14225]: Network status is up: True
+2022-10-26 15:34:07 root_disk_usage_percent[14225]: <p>O root da maquina 10 esta com espaco livre inferior ao estipulado nas configuracoes</p><p>Limite estipulado 50%</p><p>Limite medido:74.1%</p>
+2022-10-26 15:43:51 health_check[14608]: CPU usage: 5.8%
+2022-10-26 15:43:51 health_check[14608]: Disk usage by root partition: 74.1%
+2022-10-26 15:43:51 health_check[14608]: Memory usage 65.1%
+2022-10-26 15:43:51 health_check[14608]: Network status is up: True
+2022-10-26 15:43:51 root_disk_usage_percent[14608]: <p>O root da maquina archlinux (IP: 192.168.1.231) esta com espaco livre inferior ao estipulado nas configuracoes</p><p>Limite estipulado 50%</p><p>Limite medido:74.1%</p>
+2022-10-27 12:34:42 root_disk_usage_percent[5029]: <p>O root da maquina archlinux (IP: 192.168.1.231) esta com espaco livre inferior ao estipulado nas configuracoes</p><p>Limite estipulado 50%</p><p>Limite medido:74.1%</p>

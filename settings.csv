@@ -1,2 +1,2 @@
-cpu_max_usage,disk_max_usage,memory_max_usage
-90,50,90
+cpu_max_usage,disk_max_usage,memory_max_usage, app_folder
+90,50,90,/home/ander/Dropbox/health_check

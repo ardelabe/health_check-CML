@@ -1,2 +1,2 @@
-cpu_max_usage,disk_max_usage,memory_max_usage, app_folder
-90,50,90,/home/ander/Dropbox/health_check
+cpu_max_usage,disk_max_usage,memory_max_usage, app_folder,192.168.1.231
+90,50,90,/home/ander/Dropbox/health_check,"/boot, /boot/efi, /multimeios_vhdx"
